@@ -1,6 +1,6 @@
-# braindr
+# whaledr
 
-> a firebase app for braindr: Tinder for brains
+> a firebase app for whaledr: Tinder for whales, based on braindr: tinder for brains
 
 ## Firebase setup
 
